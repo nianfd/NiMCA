@@ -1,4 +1,7 @@
 # NiMCA
+Towards Entertainment Live-stream Sound Quality Assessment: A High-quality Benchmark and Non-intrusive Multi-order Contextual Attention Framework
+
+
 
 ![image](https://github.com/nianfd/NiMCA/blob/main/datasample.jpg)
 
