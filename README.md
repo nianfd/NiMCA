@@ -1,4 +1,3 @@
 # NiMCA
-<div align="center">
-  <img src="https://github.com/nianfd/NiMCA/blob/main/datasample.jpg">
-</div>
+
+![image](https://github.com/nianfd/NiMCA/blob/main/datasample.jpg)
